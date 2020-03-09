@@ -1,0 +1,12 @@
+Platform tutorials:
+  Pynq documentation: pynq.readthedocs.io
+  Neural networks overlays: https://xilinx.github.io/finn/
+  
+Gits: 
+  DNN:https://github.com/Xilinx/finn
+  https://github.com/Xilinx/pynq
+  Overlays example: https://github.com/Xilinx/QNN-MO-PYNQ
+
+Video tutorials:
+  Custom pynq overlay: https://www.youtube.com/watch?v=Dupyek4NUoI
+  First boot+ML example: https://www.youtube.com/watch?v=FA3jiIkoN-Q
